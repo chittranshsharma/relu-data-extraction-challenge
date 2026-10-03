@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Diagnostic & debug dumps
+debug_*.png
+debug_*.txt
+probe_*.png
+*.log
+
+# Diagnostic probe scripts & temporary backups
+check_site_counts.py
+diag_*.py
+*_previous_backup.*
+final*.py
+final*.csv
+disney_recon_data.md
+objective-1-context.md
+extracted_media/
+
+# Large binary document
+*.docx
